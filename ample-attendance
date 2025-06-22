@@ -1,0 +1,12 @@
+ample-attendance/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   ├── icon-192.png
+│   └── icon-512.png
+├── src/           ← โค้ด React (pages, components, firebaseConfig.js)
+├── .env           ← REACT_APP_API_URL=YOUR_SCRIPT_URL
+├── firebase.json
+├── README.md      ← คำอธิบายโปรเจกต์
+├── package.json
+└── .gitignore
